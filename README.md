@@ -27,4 +27,4 @@ I'm finishing my M.S. in Data Science at Arizona State University in December 20
 
 ---
 
-**Get in touch:** [shashank.sevyanaik@gmail.com](mailto:shashank.sevyanaik@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shashank-naik1/) · [Portfolio](https://naik-shashank.vercel.app)
+**Get in touch:** [shashank.sevyanaik@gmail.com](mailto:shashank.sevyanaik@gmail.com) (work) · [shashanksnaik0705@gmail.com](mailto:shashanksnaik0705@gmail.com) (personal) · [LinkedIn](https://www.linkedin.com/in/shashank-naik1/) · [Portfolio](https://naik-shashank.vercel.app) 

@@ -10,14 +10,12 @@ I'm finishing my M.S. in Data Science at Arizona State University in December 20
 
 ## What I work on
 
-- **Deep learning for time series and images:** CNN-GRU models, optical flow and multi-modal fusion for solar power forecasting at the ASU Photovoltaic Reliability Laboratory
-- **Model evaluation:** ablation studies across weather-only, image-based, flow-based and fused models, with RMSE benchmarking against persistence baselines across seasons and weather conditions
-- **Large-scale data processing:** feature-engineered weather signals and image sequences, plus model optimization for lower error on cloudy days and sudden ramps
-- **Time series forecasting:** sales forecasting with ARIMA, SARIMA and Prophet that improved forecast accuracy by 15%
-- **Computer vision:** an attendance system using VGG-16 for face recognition, with over 95% recognition accuracy
-- **NLP:** a sentiment analysis model for customer feedback and social media text, using tokenization, stemming and lemmatization
-- **Classical machine learning:** diabetes prediction, comparing several algorithms, where an SVM gave the best result at 80% accuracy
-- **Applied AI products:** voice agents and tools that help people, built with real users in mind
+- **Deep learning:** CNN-GRU, optical flow and multi-modal models for forecasting from images and sensor data
+- **Time series forecasting:** ARIMA, SARIMA, Prophet and deep learning, benchmarked against strong baselines
+- **Computer vision:** face recognition and image-based systems
+- **NLP:** sentiment analysis and text classification
+- **Machine learning:** model comparison, ablation studies and evaluation done properly
+- **Applied AI:** voice agents and tools that help people, built with real users in mind
 
 ## Tech I use
 
